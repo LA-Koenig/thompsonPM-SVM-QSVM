@@ -1,0 +1,10 @@
+# Slurm output
+**/slurm-*.out
+**/slurm-*.err
+
+# Jupyter Notebook Checkpoints
+**/.ipynb_checkpoints/
+
+# Jupyter metadata files for specific IDEs or environments
+.metadata/
+
